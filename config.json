@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsender",
+        "uuid": 8118540,
+        "checksum": "yqj4ua"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
